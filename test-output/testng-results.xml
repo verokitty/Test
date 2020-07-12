@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25792" started-at="2020-07-08T11:15:22Z" finished-at="2020-07-08T11:15:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25792" started-at="2020-07-08T11:15:22Z" finished-at="2020-07-08T11:15:48Z">
+      <class name="SrcPagestng.Home_page_US_tng">
+        <test-method status="PASS" signature="Initiatedriver()[pri:0, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="Initiatedriver" is-config="true" duration-ms="5017" started-at="2020-07-08T11:15:22Z" finished-at="2020-07-08T11:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initiatedriver -->
+        <test-method status="PASS" signature="launchBrowsre()[pri:0, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="launchBrowsre" duration-ms="11802" started-at="2020-07-08T11:15:27Z" finished-at="2020-07-08T11:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowsre -->
+        <test-method status="PASS" signature="verifycookiepopuptext()[pri:1, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="verifycookiepopuptext" duration-ms="208" started-at="2020-07-08T11:15:39Z" finished-at="2020-07-08T11:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycookiepopuptext -->
+        <test-method status="PASS" signature="verifypageLogoworking()[pri:2, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="verifypageLogoworking" duration-ms="4248" started-at="2020-07-08T11:15:39Z" finished-at="2020-07-08T11:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypageLogoworking -->
+        <test-method status="PASS" signature="verifycookiepopupCancelButton()[pri:3, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="verifycookiepopupCancelButton" duration-ms="4326" started-at="2020-07-08T11:15:43Z" finished-at="2020-07-08T11:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycookiepopupCancelButton -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SrcPagestng.Home_page_US_tng@548e7350]" name="afterTest" is-config="true" duration-ms="160" started-at="2020-07-08T11:15:48Z" finished-at="2020-07-08T11:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SrcPagestng.Home_page_US_tng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
